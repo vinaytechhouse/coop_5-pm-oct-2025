@@ -1,1 +1,7 @@
+Network file path for development:
+
 \\VINAYTECH\Multi-Tenant Practice\5 PM OCT 25\Multi Customer DWH-Tabular Cube Data.xlsx
+
+Network file path for Testing:
+
+\\VINAYTECH\Multi-Tenant Practice\Test\Multi Customer DWH-Tabular Cube Data.xlsx
